@@ -23,7 +23,7 @@
   - Adjusted R-Squared for Train dataset:  0.83
   - R-Squared for Test data: 0.80
   - Adjusted R-Squared for Test dataset:  0.79
-- Based on model,  most contributing are
+- Based on model,  most contributing features are
   - temp, 0.59
   - weathersit_Light Rain,    -0.2318      
   - yr, 0.23
